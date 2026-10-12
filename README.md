@@ -78,3 +78,19 @@ This project includes plots for accuracy, loss, ROC curve, and confusion matrix.
 
 ## Disclaimer
 This project is intended for educational purposes only. It is not a medical diagnostic tool. Predictions may be inaccurate and must not be used as a substitute for professional medical advice.
+
+
+## Application Screenshots
+
+### Screenshot 1
+![Application Screenshot 1](Screenshots/Screenshot%201.png)
+
+### Screenshot 2
+![Application Screenshot 2](Screenshots/Screenshot%202.png)
+
+### Screenshot 3
+![Application Screenshot 3](Screenshots/Screenshot%203.png)
+
+### Screenshot 4
+![Application Screenshot 4](Screenshots/Screenshot%204.png)
+
