@@ -1,0 +1,11 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+dataset/
+uploads/*
+!uploads/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
